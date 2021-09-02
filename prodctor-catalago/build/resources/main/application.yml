@@ -1,0 +1,11 @@
+server:
+  port: 8081
+  spring:
+    cloud:
+      config:
+        servers:
+          git:
+            url:https://github.com/osvaldoneto/dio-experts-config.git
+
+
+
