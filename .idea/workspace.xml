@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b83d3eb-fc82-4bd4-ad09-abd3367b0f38" name="Changes" comment="" />
+    <list default="true" id="7b83d3eb-fc82-4bd4-ad09-abd3367b0f38" name="Changes" comment="projecto spring cloud">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,6 +63,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="springboot" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JpbToolWindowState">
@@ -195,8 +202,37 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1630577046585</updated>
-      <workItem from="1630577049708" duration="16794000" />
+      <workItem from="1630577049708" duration="17523000" />
     </task>
+    <task id="LOCAL-00001" summary="projecto spring cloud">
+      <created>1630622533096</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1630622533096</updated>
+    </task>
+    <task id="LOCAL-00002" summary="projecto spring cloud">
+      <created>1630622588505</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1630622588505</updated>
+    </task>
+    <task id="LOCAL-00003" summary="projecto spring cloud">
+      <created>1630622688392</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1630622688392</updated>
+    </task>
+    <task id="LOCAL-00004" summary="projecto spring cloud">
+      <created>1630622945538</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1630622945539</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -207,10 +243,16 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="BEK_SORT_TYPE" value="1" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="projecto spring cloud" />
+    <option name="LAST_COMMIT_MESSAGE" value="projecto spring cloud" />
   </component>
 </project>
